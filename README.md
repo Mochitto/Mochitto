@@ -26,3 +26,6 @@ I'm also planning on building projects I've prototyped during my batch at the Re
 
 I'm always eager to learn new technologies and take on new challenges. 
 Feel free to check out my GitHub repositories and get in touch if you're interested in collaborating, have any question or would just like to say 'hi'! 💕
+
+
+![Mochitto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mochitto)

@@ -15,8 +15,12 @@ I have professional experience as a web developer (full-stack in the JS environm
 I'm also a member of the [Recurse Center](https://www.recurse.com/), a self-directed and diverse community of programmers based in New York. 
 Some projects I've built during my batch are: [Markdown2anki](https://github.com/Mochitto/Markdown2Anki), a fully typed Python CLI tool that bridges the gap between Anki and Markdown files, and [Type-config](https://github.com/Mochitto/type-config), a Python library that validates and casts types onto a custom configuration file format. 
 
+## ✨ Latest projects
+I've recently redesigned and rebuilt the [Jolly residence's website](http://jollyresidence.it) using Next.js, React, Shadcn and Taliwind and I've published a study on [exporting huge XLSX](https://github.com/Mochitto/blog_Exporting-huge-XLSX-files) files using dockerized PHP and PSQL.
+
 ## 🌱 Currently working on
-I'm working on a rebuild and redesign of the [Jolly residence's website](http://jollyresidence.it) using Next.js, React, Shadcn and Taliwind and will publish the code once it will be ready, as well as writing about everything I'm learning on my website, [Mochitto.dev](https://Mochitto.dev) which I'll build as soon as this project will be done ⭐
+I'm working on a building my blog/website at [mochitto.dev](http://mochitto.dev) using HTMX, Go, PSQL and Taliwind ⭐
+I'm also planning on building projects I've prototyped during my batch at the Recurse Center, once my blog will be ready :)
 
 ---
 
